@@ -14,4 +14,4 @@ clone-flix/
 ## 🚀Files Version 1
 - 👍[index.html](./archivos_md/version_1/index.md)
 - 👍[app.css](./archivos_md/version_1/app_css.md)
-- 👍[app.css](./archivos_md/version_1/app_js.md)
+- 👍[app.js](./archivos_md/version_1/app_js.md)
