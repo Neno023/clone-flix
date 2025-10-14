@@ -1,9 +1,12 @@
+## 🚀app.js
+
+```js
 // api a tvmaze
 const API = 'https://api.tvmaze.com'
 
 //elememtos del DOM
 const rowsContainer = document.getElementById('rowsContainer')
-const hero = document.getElementById('hero')
+const heron = document.getElementById('hero')
 const heroTitle = document.getElementById('heroTitle')
 const heroDesc = document.getElementById('heroDesc')
 const heroPlay = document.getElementById('heroPlay')
@@ -37,3 +40,8 @@ const fetchJSON = async(url) =>{
 }
 
 init()
+```
+
+---
+
+- 👍[Inicio](/README.md)
