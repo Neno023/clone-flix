@@ -20,3 +20,4 @@ clone-flix/
 
 - 👍[version 1](version_1.md)
 - 👍[version 2](version_2.md)
+- 👍[version 2.1](version_2.1.md)

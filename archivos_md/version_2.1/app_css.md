@@ -1,5 +1,5 @@
 
-## 🚀app.css
+## 🚀app.js
 
 ```css
 body{

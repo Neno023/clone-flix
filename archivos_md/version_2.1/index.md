@@ -1,3 +1,6 @@
+## 🚀index.html
+
+```html
 <!doctype html>
 <html lang="en">
   <head>
@@ -57,3 +60,9 @@
     <script src="./js/app.js"></script>
   </body>
 </html>
+```
+
+---
+
+- 👍[Inicio](/README.md)
+- 👍[Siguiente](app_css.md)

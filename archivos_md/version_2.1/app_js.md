@@ -1,3 +1,6 @@
+## 🚀app.js
+
+```js
 // api a tvmaze
 const API = 'https://api.tvmaze.com'
 
@@ -135,3 +138,8 @@ const openDetail = async (id) =>{
 }
 
 init()
+```
+
+---
+
+- 👍[Inicio](/README.md)
